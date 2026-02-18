@@ -1,2 +1,3 @@
 Hello world
+Feature A line
 Feature B line
